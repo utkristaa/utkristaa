@@ -75,7 +75,7 @@ I enjoy designing efficient systems, writing clean code, and building applicatio
 
 ---
 
-# 💼 Experience
+#  Experience
 
 ### Full Stack Developer
 
@@ -92,9 +92,9 @@ Building robust web applications with modern technologies while focusing on clea
 
 ---
 
-# 📂 Featured Projects
+#  Featured Projects
 
-## 🏫 School Management System
+## School Management System
 
 Modern ERP platform for educational institutions.
 
@@ -114,11 +114,11 @@ A business dashboard with real-time reporting.
 
 `Next.js` • `PostgreSQL`
 
-🔗 Repository → Add Link
+ Repository → Add Link
 
 ---
 
-## 📦 Inventory Management
+##  Inventory Management
 
 Inventory and stock management solution.
 
@@ -126,11 +126,11 @@ Inventory and stock management solution.
 
 `React` • `Express`
 
-🔗 Repository → Add Link
+ Repository → Add Link
 
 ---
 
-## 🤖 AI Assistant
+##  AI Assistant
 
 Intelligent assistant powered by modern AI.
 
@@ -138,11 +138,11 @@ Intelligent assistant powered by modern AI.
 
 `Python` • `FastAPI`
 
-🔗 Repository → Add Link
+ Repository → Add Link
 
 ---
 
-## 💳 Billing System
+##  Billing System
 
 Complete invoicing and billing platform.
 
@@ -154,7 +154,7 @@ Complete invoicing and billing platform.
 
 ---
 
-## 🌐 Portfolio CMS
+##  Portfolio CMS
 
 Content management system for portfolios.
 
@@ -166,18 +166,18 @@ Content management system for portfolios.
 
 ---
 
-# 🏆 Achievements
+#  Achievements
 
-- 🥇 Hackathon Winner
-- 💼 Full Stack Developer
-- 🌍 Freelance Developer
-- 🧩 Software Problem Solver
-- 📚 Continuous Learner
-- 🚀 Technology Enthusiast
+-  Hackathon Winner
+-  Full Stack Developer
+-  Freelance Developer
+-  Software Problem Solver
+-  Continuous Learner
+-  Technology Enthusiast
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -216,24 +216,23 @@ Content management system for portfolios.
 <details>
 <summary><b>Beyond Coding</b></summary>
 
-- 📖 Reading about software architecture
-- 🧠 Learning emerging technologies
-- 🎯 Solving programming challenges
-- 🏆 Participating in hackathons
-- ☕ Building projects that solve problems
+-  Reading about software architecture
+-  Learning emerging technologies
+-  Solving programming challenges
+-  Participating in hackathons
+-  Building projects that solve problems
 
 </details>
 
 ---
 
-# 🤝 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="#"><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
-<a href="#"><img src="https://cdn.simpleicons.org/medium/FFFFFF" width="48"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://www.linkedin.com/in/utkristaadhikari/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href=""><img src="https://img.icons8.com/fluency/48/domain.png"/></a>
+<a href="mailto:utkristaadhikari500@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 
 </div>
 
