@@ -102,7 +102,7 @@ Modern ERP platform for educational institutions.
 
 `React` • `Node.js` • `MongoDB`
 
-🔗 Repository → Add Link
+
 
 ---
 
@@ -114,8 +114,7 @@ A business dashboard with real-time reporting.
 
 `Next.js` • `PostgreSQL`
 
- Repository → Add Link
-
+ 
 ---
 
 ##  Inventory Management
@@ -126,8 +125,7 @@ Inventory and stock management solution.
 
 `React` • `Express`
 
- Repository → Add Link
-
+ 
 ---
 
 ##  AI Assistant
@@ -138,7 +136,7 @@ Intelligent assistant powered by modern AI.
 
 `Python` • `FastAPI`
 
- Repository → Add Link
+
 
 ---
 
@@ -150,7 +148,7 @@ Complete invoicing and billing platform.
 
 `Node.js` • `MongoDB`
 
-🔗 Repository → Add Link
+
 
 ---
 
@@ -162,7 +160,7 @@ Content management system for portfolios.
 
 `Next.js` • `Firebase`
 
-🔗 Repository → Add Link
+
 
 ---
 
