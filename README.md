@@ -189,11 +189,7 @@ Content management system for portfolios.
 
 </div>
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=utkristaa&theme=tokyonight&no-frame=true"/>
-
-</div>
 
 ---
 
