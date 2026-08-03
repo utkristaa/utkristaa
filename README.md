@@ -22,14 +22,14 @@ I enjoy designing efficient systems, writing clean code, and building applicatio
 
 ---
 
-# 🚀 What I'm Working On
+#  What I'm Working On
 
-- 🏫 Developing a School Management Platform
-- 💼 Working as a Full Stack Developer
-- 🌐 Building scalable web applications
-- 📚 Exploring Cloud Computing & System Design
-- 🤝 Taking Freelance Projects
-- ⚡ Continuously improving development workflows
+- Developing a School Management Platform
+- Working as a Full Stack Developer
+- Building scalable web applications
+- Exploring Cloud Computing & System Design
+- Taking Freelance Projects
+- Continuously improving development workflows
 
 ---
 
