@@ -14,7 +14,7 @@
 
 ---
 
-# 👨‍💻 Who Am I
+#  Who Am I
 
 Hi, I'm **Utkrista Adhikari**, a Full Stack Developer who enjoys solving real-world problems through software.
 
@@ -106,7 +106,7 @@ Modern ERP platform for educational institutions.
 
 ---
 
-## 📈 Analytics Dashboard
+##  Analytics Dashboard
 
 A business dashboard with real-time reporting.
 
@@ -193,7 +193,7 @@ Content management system for portfolios.
 
 ---
 
-# 💡 Developer Mindset
+#  Developer Mindset
 
 > **"Strong software isn't built by chasing trends—it's built by understanding problems, writing thoughtful code, and improving one iteration at a time."**
 
