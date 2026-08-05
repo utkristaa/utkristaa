@@ -175,24 +175,6 @@ Content management system for portfolios.
 
 ---
 
-#  GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=utkristaa&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utkristaa&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-
-
----
-
 #  Developer Mindset
 
 > **"Strong software isn't built by chasing trends—it's built by understanding problems, writing thoughtful code, and improving one iteration at a time."**
